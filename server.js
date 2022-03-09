@@ -37,7 +37,7 @@ const swaggerOptions = {
     info: {
       title: "Tmood's Housing API",
       version: 'v1.0.0',
-      description: 'CRUD demo with NodeJS, Express and MySQL',
+      description: 'CRUD demo with React, NodeJS, Express and MySQL',
       contact: {
         name: 'Tamer Mahmoud',
         url: 'https://www.github.com/TmoodGitHub',
