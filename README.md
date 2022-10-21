@@ -10,7 +10,7 @@ I also included JWT token-based authentication/authorization. It begins with log
 
 ## What more can I do with this project had I more time?:
 
-I would stress test the app to ensure security is sound such as SQL injection, XSS scripting, verbose message or information leak. There are plenty of library available to create a more secure token transaction and further reinforce the Restful APIs.
+This project would be rewritten from ground up in TypesScript to demonstrate solid understanding of the superscript, making the work more scalable, modular and minimize repeatition. I would include more testing with Jest to justify my work. Finally, refactor everything to ensure that there's no security vulnerabilities, ensure loose coupling, and overall tight and clean coding were used. Finally, I would stress test the app to ensure security is sound such as SQL injection, XSS scripting, verbose message or information leak. There are plenty of library available to create a more secure token transaction and further reinforce the Restful APIs.
 
 ## Running the server locally:
 
